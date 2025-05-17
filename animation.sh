@@ -54,7 +54,7 @@ $e[H$e[3J$e[J   Pearl                                          Me with my lil be
               |   You might got some little struggles.   |
               |   but never wavered your nice chuckles   |
               |  I’m sorry for the elongation and delay  |
-              | all I want to say for is $happybday! |
+              |   all I want to say is $happybday!   |
               +----------------------------[ By $e[1;91mAdel$e[m ]---+
 EOF
 do sleep 0.4;done
